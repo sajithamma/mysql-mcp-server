@@ -39,6 +39,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+4. Run the fixture to create the database:
+```bash
+python sqlite_fixture.py
+```
+
 ## Project Structure
 
 The project consists of two main components:
