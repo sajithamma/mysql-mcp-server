@@ -18,7 +18,7 @@ A powerful database management tool built with FastMCP that provides an interact
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:sajithamma/mysql-mcp-server.git
 cd mysql-mcp-server
 ```
 
